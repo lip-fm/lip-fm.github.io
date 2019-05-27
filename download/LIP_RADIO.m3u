@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1,Радио Орфей (70.07 УКВ)
+https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
+#EXTINF:-1,Радио России (89.10 ФМ)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+#EXTINF:-1,Вести (90.3 ФМ)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
+#EXTINF:-1,Липецк FM (90.70 ФМ)
+http://media.lipetsk.ru:9009/r_lt.mp3
+
+#EXTINF:-1,Радио Дача (91.10 ФМ)
+http://radio.pridemedia.ru:8004/dacha128
+
+#EXTINF:-1,Energy (95.70 ФМ)
+http://91.207.59.26/a99
+
+#EXTINF:-1,Радио Вера (97.90 ФМ)
+http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1,Восток FM (98.30 ФМ)
+http://stream1.pervoesetevoe.ru:8000/VFMLIP
+#EXTINF:-1,Юмор FM (99.40 ФМ)
+http://91.207.59.26/a102
+
+#EXTINF:-1,Русское (100.50 ФМ)
+https://rusradio.hostingradio.ru/rusradio128.mp3
+#EXTINF:-1,Дроржное Радио (100.90 ФМ)
+http://dorognoe.hostingradio.ru:8000/radio
+#EXTINF:-1,Европа Плюс (101.30 ФМ)
+http://ep256.hostingradio.ru:8052/europaplus256.mp3
+#EXTINF:-1,Авторадио (102.10 ФМ)
+http://ic7.101.ru:8000/a100
+#EXTINF:-1,Ретро ФМ (103.1 ФМ)
+http://retroserver.streamr.ru:8043/retro128
+
+#EXTINF:-1,Комсомольская Правда (103.70 ФМ)
+http://kpradio.hostingradio.ru:8000/lipetck.radiokp128.mp3
+#EXTINF:-1,Studio21 (105.10 ФМ)
+https://icecast-studio21.cdnvideo.ru/S21cl_1r
+#EXTINF:-1,Радио Шансон (105.60 ФМ)
+http://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,Радио 7 (106.20 ФМ)
+http://retroserver.streamr.ru:8040/radio7128.mp3
+
+#EXTINF:-1,Радио Маяк (106.60 ФМ)
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
+#EXTINF:-1,Новое Радио (107.20 ФМ)
+http://icecast.newradio.cdnvideo.ru/newradio3
+
+#EXTINF:-1,Серебрянный дождь
+http://213.59.4.27:8000/silver128.mp3
