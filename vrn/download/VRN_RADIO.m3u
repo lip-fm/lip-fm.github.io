@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,Радио Орфей (70.07 УКВ)
+https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
+#EXTINF:-1,Радио Благовестие (73.55 УКВ)
+http://live.borneo.ru:8888/bv64
+#EXTINF:-1,Радио Relax FM (94.90 FM)
+http://91.207.59.26/a200
+#EXTINF:-1,Радио России (95.90 FM)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+#EXTINF:-1,Вести FM (96.30 FM)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
+#EXTINF:-1,Комсомольская Правда (97.70 FM)
+https://kpradio.hostingradio.ru:8003/voroneg.radiokp128.mp3
+#EXTINF:-1,Восток ФМ (98.10 FM)
+http://stream1.pervoesetevoe.ru:8000/VFMLIP
+#EXTINF:-1,Новое Радио (98.50 FM)
+http://icecast.newradio.cdnvideo.ru/newradio3
+#EXTINF:-1,Юмор FM (99.10 FM)
+http://213.129.100.198:8006/kolhoz
+#EXTINF:-1,Детское Радио (99.50 FM)
+http://ic7.101.ru:8000/a199
+#EXTINF:-1,Радио Мир (99.90 FM)
+http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128
+#EXTINF:-1,Европа Плюс (100.30 FM)
+http://ep256.hostingradio.ru:8052/europaplus256.mp3
+#EXTINF:-1,Радио Губерния (100.70 FM)
+http://www.gubernia-media.ru:8000/gubernia
+#EXTINF:-1,Energy (101.10 FM)
+http://91.207.59.26/a99
+#EXTINF:-1,Дорожное Радио (102.30 FM)
+http://ps.ne.fm/15_aac_96__
+#EXTINF:-1,Радио Шансон (102.80 FM)
+http://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,Авторадио (103.40 FM)
+http://ic7.101.ru:8000/a100
+#EXTINF:-1,Радио DFM (104.30 FM)
+https://dfm.hostingradio.ru/dfm96.aacp?1561402996391
+#EXTINF:-1,Русское (104.80 FM)
+https://rusradio.hostingradio.ru/rusradio128.mp3
+#EXTINF:-1,Ретро ФМ (105.30 FM)
+http://retroserver.streamr.ru:8043/retro128
+#EXTINF:-1,Маяк (105.70 FM)
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
+#EXTINF:-1,Максимум (106.10 FM)
+https://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1,Мелодия (106.80 FM)
+http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
+#EXTINF:-1,Радио Борнео (107.20 FM)
+http://live.borneo.ru:8888/64
+#EXTINF:-1,Радио Дача (107.60 FM)
+http://radio.pridemedia.ru:8004/dacha128
