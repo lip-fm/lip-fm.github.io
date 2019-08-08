@@ -29,7 +29,8 @@ Title9=Юмор FM (100.70 FM)
 File10=http://s03.volnorez.com:8001/live-app/tmp/719777
 Length10=0
 Title10=Родное Радио (100.70 FM)
-File11=http://ps.ne.fm/15_aac_96
+File11=http://dorognoe.hostingradio.ru:8000/radio
+
 Length11=0
 Title11=Дорожное Радио (101.50 FM)
 File12=http://91.207.59.26:8000/a3_1

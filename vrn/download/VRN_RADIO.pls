@@ -41,7 +41,8 @@ Title13=Радио Губерния (100.70 FM)
 File14=http://91.207.59.26/a99
 Length14=0
 Title14=Energy (101.10 FM)
-File15=http://ps.ne.fm/15_aac_96__
+File15=http://dorognoe.hostingradio.ru:8000/radio
+
 Length15=0
 Title15=Дорожное Радио (102.30 FM)
 File16=http://chanson.hostingradio.ru:8041/chanson128.mp3

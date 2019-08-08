@@ -20,7 +20,8 @@ http://91.207.59.26/a102
 #EXTINF:-1,Родное Радио (100.70 FM)
 http://s03.volnorez.com:8001/live-app/tmp/719777
 #EXTINF:-1,Дорожное Радио (101.50 FM)
-http://ps.ne.fm/15_aac_96
+http://dorognoe.hostingradio.ru:8000/radio
+
 #EXTINF:-1,Авторадио (102.00 FM)
 http://91.207.59.26:8000/a3_1
 #EXTINF:-1,Радио Вера (102.50 FM)

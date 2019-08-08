@@ -28,7 +28,8 @@ http://www.gubernia-media.ru:8000/gubernia
 #EXTINF:-1,Energy (101.10 FM)
 http://91.207.59.26/a99
 #EXTINF:-1,Дорожное Радио (102.30 FM)
-http://ps.ne.fm/15_aac_96__
+http://dorognoe.hostingradio.ru:8000/radio
+
 #EXTINF:-1,Радио Шансон (102.80 FM)
 http://chanson.hostingradio.ru:8041/chanson128.mp3
 #EXTINF:-1,Авторадио (103.40 FM)
